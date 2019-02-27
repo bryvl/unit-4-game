@@ -1,0 +1,27 @@
+body {
+    background-image: url('../images/isengard.jpg');
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    /* #7C9A81 */
+    overflow: hidden;
+}
+
+/* Character Styles */
+.character {
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 2px solid green;
+    width: 220px;
+    display: inline-block;
+    padding: 0;
+    
+}
+
+.enemy {
+    background-color: red;
+    border: 2px solid black;
+}
